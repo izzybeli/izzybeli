@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @izzybeli
 - 👀 I’m interested in computer engineering
-- 📫 How to reach me: izzybella2811@gmail.com
+- 📫 How to reach me: samardzi@usc.edu
 
 <!---
 izzybeli/izzybeli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
